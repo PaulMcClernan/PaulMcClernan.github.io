@@ -1,4 +1,4 @@
-## Welcome to my progects page!
+## Welcome to my projects page!
 
 You can use the [editor on GitHub](https://github.com/PaulMcClernan/PaulMcClernan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
